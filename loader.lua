@@ -2,7 +2,7 @@ local VERSION = "1.1"
 local HUB_NAME = "Lynxx - Premium"
 local games = {
     [6701277882]      = "https://raw.githubusercontent.com/4LynxX/Game-list/refs/heads/main/fish-it.lua",
-    [6739698191]      = "https://raw.githubusercontent.com/4LynxX/all_Game/refs/heads/main/violence-district.lua",
+    [6739698191]      = "https://raw.githubusercontent.com/4LynxX/Game-list/refs/heads/main/violence-district.lua",
 }
 local universeId = game.GameId
 local placeId    = game.PlaceId
